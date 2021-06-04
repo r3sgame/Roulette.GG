@@ -1,0 +1,25 @@
+{
+  "name": "roulettegg",
+  "version": "1.0.0",
+  "description": "A discord bot that gives a random text or image.",
+  "main": "index.js",
+  "scripts": {
+    "test": "/hi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r3sgame/roulette-gg.git"
+  },
+  "keywords": [
+    "roulette"
+  ],
+  "author": "r3sgame",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/r3sgame/roulette-gg/issues"
+  },
+  "homepage": "https://github.com/r3sgame/roulette-gg#readme",
+  "dependencies": {
+    "git": "^0.1.5"
+  }
+}
