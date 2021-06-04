@@ -4,7 +4,8 @@
   "description": "A discord bot that gives a random text or image.",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"No test\" && exit 1"
+   "start": "node src/index.js",
+   "test": "echo \"No test\" && exit 1"
   },
   "repository": {
     "type": "git",
