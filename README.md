@@ -1,4 +1,4 @@
-# Roulette.GG
+![RouletteGGBanner](https://github.com/r3sgame/Roulette.GG/blob/master/RouletteGGBanner.png?raw=true)
 Roulette.GG is a free, open-source Discord Bot that uses many different REST APIs to send messages.
 
 # What can Roulette.GG do?
