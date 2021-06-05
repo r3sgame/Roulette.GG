@@ -14,5 +14,4 @@ Simply visit "https://discordapp.com/oauth2/authorize?client_id=8476326189794590
 You can also make your own version of Roulette.GG by visiting "https://github.com/r3sgame/Roulette.GG" and downloading the repository.
 
 Have fun!
-Check out the r3sgame Discord for more information about this bot.
-https://discord.com/invite/2h4ueYc
+Check out the r3sgame Discord (https://discord.com/invite/2h4ueYc) for more information about this bot.
