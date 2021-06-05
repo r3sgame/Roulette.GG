@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/r3sgame/roulette-gg#readme",
   "dependencies": {
+    "axios": "^0.21.1",
     "discord.js": "^12.5.3",
     "git": "^0.1.3"
   },
