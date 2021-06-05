@@ -9,7 +9,7 @@ Simply type ^spin, and Roulette.GG will automatically send a random message. The
 - 🐶 Pet Pictures
 ...And More!
 
-#How can I add Roulette.GG to my server?
+# How can I add Roulette.GG to my server?
 Simply visit "https://discordapp.com/oauth2/authorize?client_id=847632618979459084&scope=bot" and follow the instructions to add this bot to your server.
 You can also make your own version of Roulette.GG by visiting "https://github.com/r3sgame/Roulette.GG" and downloading the repository.
 
