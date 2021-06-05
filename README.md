@@ -1,0 +1,18 @@
+# Roulette.GG
+Roulette.GG is a free, open-source Discord Bot that uses many different REST APIs.
+
+# What can Roulette.GG do?
+Simply type ^spin, and Roulette.GG will automatically send a random message. The message can contain things such as:
+- ❔ Trivia
+- ❕ Advice
+- 😂 Memes
+- 🐶 Pet Pictures
+...And More!
+
+#How can I add Roulette.GG to my server?
+Simply visit "https://discordapp.com/oauth2/authorize?client_id=847632618979459084&scope=bot" and follow the instructions to add this bot to your server.
+You can also make your own version of Roulette.GG by visiting "https://github.com/r3sgame/Roulette.GG" and downloading the repository.
+
+Have fun!
+Check out the r3sgame Discord for more information about this bot.
+https://discord.com/invite/2h4ueYc
