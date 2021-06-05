@@ -75,4 +75,4 @@ const fetchCat = async (message) => {
          }
 
 //Place your token where it says "Your Token." You can find the token in the Bot tab in the Discord Developer Portal. This part is essential for the bot to function properly. DO NOT SHARE YOUR TOKEN!
-    client.login('ODQ3NjMyNjE4OTc5NDU5MDg0.YLA5ZA.NsJFu2XyWLvBOfdGNpDIt8dWCX4');
+    client.login('ODQ3NjMyNjE4OTc5NDU5MDg0.YLA5ZA.apIVkFFmBN_69oV5-UtVUtf6vjM');
