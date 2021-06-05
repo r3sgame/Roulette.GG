@@ -1,5 +1,5 @@
 # Roulette.GG
-Roulette.GG is a free, open-source Discord Bot that uses many different REST APIs.
+Roulette.GG is a free, open-source Discord Bot that uses many different REST APIs to send messages.
 
 # What can Roulette.GG do?
 Simply type ^spin, and Roulette.GG will automatically send a random message. The message can contain things such as:
