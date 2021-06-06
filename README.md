@@ -7,6 +7,7 @@ Simply type ^spin, and Roulette.GG will automatically send a random message. The
 - ❕ Advice
 - 😂 Memes
 - 🐶 Pet Pictures
+
 ...And More!
 
 # How can I add Roulette.GG to my server?
